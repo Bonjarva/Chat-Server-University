@@ -4,7 +4,7 @@ This is a repository with an implementation of a chat server that allows for mul
 
 This chat server has been implemented as part of University work for my Computer Science Degree.
 
-to run this program you must compile the java programs and run with command line flags , <port#>, <hostAddress>.
+to run this program you must compile the java programs and run with command line flags , <port#>, (hostAddress>).
   
 running locally:
 1. run server first
